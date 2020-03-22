@@ -5,7 +5,7 @@ Uredniki baze in ostali sodelavci:
 * [Aleks Jakulin](https://twitter.com/aleksj) - viri, modeliranje 
 * [Andraž Vrhovec](http://github.com/overlordtm) - CSV oblika, spletna stran 
 * [Grega Milčinski](https://www.linkedin.com/in/gregamilcinski/) - viri, validacija podatkov
-* [Maks Mržek](https://twitter.com/maksmrzek) - validacija, modeliranje, vizualizacije, koordinacija
+* [Maks Mržek](https://www.linkedin.com/in/maks-mr%C5%BEek-98798066/) - validacija, modeliranje, vizualizacije, koordinacija
 * [Miha Kadunc](https://twitter.com/miha_kadunc) - model bolnišničnih podatkov, modeliranje
 * [Marko B](https://twitter.com/multikultivator) - viri, spletna stran, dataviz
 * [Matej Jurko](https://www.linkedin.com/in/matejjurko/) - viri, validacija podatkov
